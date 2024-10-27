@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Audio;AudioVideo;Qt;
+Comment=Change your wallpaper
+Exec=yunli-mode
+Icon=yunli-mode
+Name=Yunli mode
+Name[zh_CN]=云璃模式
+Type=Application

@@ -1,0 +1,16 @@
+Source: gxde-easteregg-yunli
+Section: utils
+Priority: optional
+Maintainer: shenmo <shenmo@spark-app.store>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://gitee.com/GXDE-OS/gxde-easteregg-yunli
+Rules-Requires-Root: no
+#Vcs-Git: https://salsa.debian.org/debian/gxde-easteregg-yunli.git
+#Vcs-Browser: https://salsa.debian.org/debian/gxde-easteregg-yunli
+
+Package: gxde-easteregg-yunli
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends},gxde-system-assistant,dbus-bin,gxde-community-wallpapers
+Description: This is a easteregg package for Yunli
