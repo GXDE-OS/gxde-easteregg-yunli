@@ -1,3 +1,4 @@
 #!/bin/bash
 gsettings set com.deepin.wrap.gnome.desktop.background picture-uri "/usr/share/wallpapers/deepin/Aethlete_yunli_by_圈圈丸.png"
 notify-send "This wallpaper belones to 圈圈丸 https://www.pixiv.net/artworks/120151570"
+gsettings set com.deepin.wrap.gnome.desktop.background picture-uri "file:///usr/share/wallpapers/deepin/Aethlete_yunli_by_圈圈丸.png"
